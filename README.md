@@ -51,4 +51,6 @@ The results file will include both the results of the 1-step and 2-step simulati
 
 # JavaApplication11
 
-The purpose of "JavaApplication11" is to read every results file and output all relevant statistical data on the terminal.
+The purpose of "JavaApplication11" is to read every results file and output all relevant statistical data on the terminal. However, the results which were already obtained will be stated below.
+
+From the obtained results, in 1-step, 48.27% of games resulted in checkmates and the other 51.73% resulted in 50-move-rule draws. The average number of moves per game was 37 moves. In 2-step, 84.25% of games resulted in checkmates and the other 15.75% resulted in 50-move-rule draws. The average number of moves per game was 23 moves. The number of checkmates increased by 74.54%, the number of 50-move-rule draws decreased by 228.44%, and the average amount of moves per game decreased 35.14% from 1-step to 2-step. Overall, the results show notable improvement from 1-step to 2-step, as seen from White’s perspective. 
