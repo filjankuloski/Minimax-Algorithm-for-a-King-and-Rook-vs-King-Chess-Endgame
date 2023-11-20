@@ -2,8 +2,6 @@
 
 The source code for this project folder allows you to run a chess game with an actual chess board and chess pieces. There are a variety of buttons which do various things. An image of the GUI can be seen below.
 
-![prnt.sc](https://prnt.sc/UjRFGwxXnfDg)
-
 ### 'New' Button
 
 Clicking the “New” button will generate a new random legal starting position. 
