@@ -2,7 +2,7 @@
 
 The source code for this project folder allows you to run a chess game with an actual chess board and chess pieces. There are a variety of buttons which do various things. An image of the GUI can be seen below.
 
-![Alt text](https://prnt.sc/UjRFGwxXnfDg) "a title")
+![Alt text](https://prnt.sc/UjRFGwxXnfDg "a title")
 
 ### 'New' Button
 
