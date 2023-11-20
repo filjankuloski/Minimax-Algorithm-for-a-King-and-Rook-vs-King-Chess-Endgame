@@ -2,7 +2,7 @@
 
 The source code for this project folder allows you to run a chess game with an actual chess board and chess pieces. There are a variety of buttons which do various things. An image of the GUI can be seen below.
 
-![chess board](Minimax-Algorithm-for-a-King-and-Rook-vs-King-Chess-Endgame/board.png)
+![chess board](board.png)
 
 ### 'New' Button
 
